@@ -28,3 +28,11 @@ textarea{
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+
+.card-item{
+    margin: 1rem;
+}
+.card-img-top{
+    height: 250px;
+}
