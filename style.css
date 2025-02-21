@@ -36,3 +36,12 @@ textarea{
 .card-img-top{
     height: 250px;
 }
+
+
+.horizontal-card{
+    height: 130px;
+}
+
+.summary{
+    height: 240px !important;
+}
